@@ -8,16 +8,32 @@
 
 ## 🎮 Sobre mim
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 Programo por **hobby** e adoro transformar ideias em código funcional. Gosto de explorar diferentes tecnologias e criar projetos que resolvam problemas do dia a dia ou que simplesmente sejam divertidos de fazer!
+
+- 🔭 Atualmente trabalhando em **bots e aplicações web**
+- 🌱 Explorando **TypeScript** e **Python**
+- 💬 Pergunte-me sobre **JavaScript, Discord bots, automação**
+- ⚡ Fun fact: **Transformo café em código** ☕
+- 🎯 Objetivo: **Criar projetos que façam diferença (e sejam divertidos!)**
 
 ```javascript
 const gabriel = {
+  pronouns: "ele/dele",
   code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-  tools: ["Node.js", "Selenium", "Discord.js"],
-  hobby: "Transformar café em código ☕",
-  currentFocus: "Criando bots e aplicações web"
+  tools: ["Node.js", "Selenium", "Discord.js", "Git"],
+  architecture: ["bots", "automation", "web apps"],
+  challenge: "Aprender algo novo todo dia",
+  funFact: "Debug é 90% do meu tempo... e eu amo isso! 🐛"
 };
 ```
+
+<div align="center">
+  
+  📫 **Como me encontrar:** Direto aqui no GitHub! [`@Fish7w7`](https://github.com/Fish7w7)
+  
+</div>
 
 ## 🚀 Projetos em Destaque
 
