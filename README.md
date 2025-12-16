@@ -52,13 +52,15 @@ Projeto JavaScript em desenvolvimento
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fish7w7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fish7w7&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0d1117"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fish7w7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fish7w7&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+  
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fish7w7&theme=radical&hide_border=true&background=0d1117)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Fish7w7&theme=radical&hide_border=true&background=0d1117)
   
 </div>
 
@@ -82,7 +84,7 @@ Projeto JavaScript em desenvolvimento
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fish7w7&theme=github-compact&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fish7w7&theme=github-compact&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc" alt="Contribution Graph"/>
   
 </div>
 
@@ -90,8 +92,23 @@ Projeto JavaScript em desenvolvimento
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Fish7w7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Fish7w7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
   
+</div>
+
+## 💻 Linguagens Mais Usadas
+
+<div align="center">
+
+| Linguagem | Uso |
+|-----------|-----|
+| JavaScript | 67.87% |
+| TypeScript | 12.20% |
+| Python | 7.47% |
+| HTML | 7.55% |
+| CSS | 4.43% |
+| Shell | 0.48% |
+
 </div>
 
 ## 💬 Vamos conversar?
