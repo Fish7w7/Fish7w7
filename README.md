@@ -1,4 +1,7 @@
 # Gabriel
+
+&nbsp;
+
 Programo por hobby. Gosto de transformar ideias em projetos funcionais — seja um bot, uma automação ou uma aplicação completa.
 ---
 ## Sobre
