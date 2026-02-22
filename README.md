@@ -28,10 +28,13 @@ Programo por hobby. Gosto de transformar ideias em projetos funcionais — seja 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 ## Stats
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fish7w7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fish7w7&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 </div>
+
 ---
+
 [![GitHub](https://img.shields.io/badge/@Fish7w7-181717?style=flat-square&logo=github)](https://github.com/Fish7w7)
 ![Profile Views](https://komarev.com/ghpvc/?username=Fish7w7&color=blueviolet&style=flat-square&label=views)
