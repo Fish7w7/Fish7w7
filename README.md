@@ -16,7 +16,6 @@ Programo por hobby. Gosto de transformar ideias em projetos funcionais — seja 
 |---------|-----------|-------|
 | [VoidMail](https://github.com/Fish7w7/VoidMail) | Analisa sua inbox, detecta remetentes tóxicos e limpa em lote | `Python` `FastAPI` `Next.js` `TypeScript` |
 | [Pandora](https://github.com/Fish7w7/Pandora) | Toolkit desktop com jogos, IA, clima e mais | `JavaScript` `Electron` |
-| [QuizSouls](https://github.com/Fish7w7/QuizSouls) | Bot que resolve o Daily Souls automaticamente | `Python` `Selenium` |
 | [Gatilho](https://github.com/Fish7w7/gatilho) | Aplicação moderna | `TypeScript` |
 | [Discord-Bot](https://github.com/Fish7w7/Discord-Bot) | Bot customizado para servidores | `JavaScript` `Discord.js` |
 | [Locais](https://github.com/Fish7w7/Locais) | Sistema de gerenciamento de localizações | `JavaScript` |
