@@ -11,9 +11,9 @@ Programo por hobby. Gosto de transformar ideias em projetos funcionais — seja 
 ---
 
 ## Projetos
-
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
+| [DiskSnoop](https://github.com/Fish7w7/DiskSnoop) | Descobre onde o espaço do SSD/HD foi parar e limpa com segurança | `JavaScript` `Electron` |
 | [VoidMail](https://github.com/Fish7w7/VoidMail) | Analisa sua inbox, detecta remetentes tóxicos e limpa em lote | `Python` `FastAPI` `Next.js` `TypeScript` |
 | [Pandora](https://github.com/Fish7w7/Pandora) | Toolkit desktop com jogos, IA, clima e mais | `JavaScript` `Electron` |
 | [Gatilho](https://github.com/Fish7w7/gatilho) | Aplicação moderna | `TypeScript` |
@@ -24,7 +24,6 @@ Programo por hobby. Gosto de transformar ideias em projetos funcionais — seja 
 ---
 
 ## Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,7 +39,6 @@ Programo por hobby. Gosto de transformar ideias em projetos funcionais — seja 
 ---
 
 ## Stats
-
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fish7w7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fish7w7&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
